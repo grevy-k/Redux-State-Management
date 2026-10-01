@@ -19,3 +19,6 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+.counterContainer h2 {
+  color: #000000;
+}
